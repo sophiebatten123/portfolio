@@ -1,0 +1,13 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.purple-bg {
+    background-color: #3D015E;
+}
+.orange-bg {
+    background-color: #e1a81f;
+}
+.orange-text {
+    color: #e1a81f;
+}
