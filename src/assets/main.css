@@ -11,3 +11,9 @@
 .orange-text {
     color: #e1a81f;
 }
+.medium-orange-bg {
+    background-color: #DAB902;
+}
+.light-orange-border {
+    border: solid 4px #fff2c7;
+}

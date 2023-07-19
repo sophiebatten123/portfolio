@@ -61,12 +61,41 @@
     <div class="w-3/5 mx-auto">
       <h2 class="text-center text-3xl text-gray-600 mt-4">My Work Experience</h2>
       <div class="grid grid-cols-2">
-        <div class="border-r-2 border-dotted border-gray-600 h-80 my-8 relative">
-          <div class="w-5 h-5 rounded-full orange-bg absolute right-0 -mt-2 -mr-2.5"></div>
-          <div class="w-5 h-5 rounded-full orange-bg absolute right-0 top-20 -mr-2.5"></div>
-          <div class="w-5 h-5 rounded-full orange-bg absolute right-0 top-40 -mr-2.5"></div>
-          <div class="w-5 h-5 rounded-full orange-bg absolute right-0 top-80 -mr-2.5"></div>
-          <p>hello</p>
+        <div class="border-r-2 border-dotted border-gray-600 h-120 my-8 relative">
+          <div class="w-5 h-5 rounded-full medium-orange-bg light-orange-border absolute right-0 -mt-2 -mr-2.5"></div>
+          <div class="w-5 h-5 rounded-full medium-orange-bg light-orange-border absolute right-0 top-24 -mr-2.5"></div>
+          <div class="w-5 h-5 rounded-full medium-orange-bg light-orange-border absolute right-0 top-48 -mr-2.5"></div>
+          <div class="w-5 h-5 rounded-full medium-orange-bg light-orange-border absolute right-0 top-80 -mr-2.5"></div>
+          <div>
+            <h3 class="text-xl text-gray-600 font-bold">Fullhurst Community College</h3>
+            <h4 class="text-lg text-gray-600">September 2018 - December 2021</h4>
+          </div>
+          <div class="mt-32">
+            <h3 class="text-xl text-gray-600 font-bold">Cambridge Education Group Digital</h3>
+            <h4 class="text-lg text-gray-600">February 2022 - January 2023</h4>
+          </div>
+          <div class="mt-20">
+            <h3 class="text-xl text-gray-600 font-bold">Classroom Secrets</h3>
+            <h4 class="text-lg text-gray-600">January 2023 - Current</h4>
+          </div>
+        </div>
+        <div class="mt-8 text-right">
+          <div>
+            <h3 class="text-xl text-gray-600 font-bold">Maths Teacher</h3>
+            <p class="text-sm text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis mauris neque, sed faucibus massa finibus non. Sed id massa nibh. Aliquam id neque eu nunc commodo.</p>
+          </div>
+          <div>
+            <h3 class="text-xl text-gray-600 font-bold">Head of KS3 Maths</h3>
+            <p class="text-sm text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis mauris neque, sed faucibus massa finibus non. Sed id massa nibh. Aliquam id neque eu nunc commodo.</p>
+          </div>
+          <div>
+            <h3 class="text-xl text-gray-600 font-bold">Online Learning Designer</h3>
+            <p class="text-sm text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis mauris neque, sed faucibus massa finibus non. Sed id massa nibh. Aliquam id neque eu nunc commodo.</p>
+          </div>
+          <div>
+            <h3 class="text-xl text-gray-600 font-bold mt-8">Full Stack Developer</h3>
+            <p class="text-sm text-gray-600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis mauris neque, sed faucibus massa finibus non. Sed id massa nibh. Aliquam id neque eu nunc commodo.</p>
+          </div>
         </div>
       </div>
     </div>
