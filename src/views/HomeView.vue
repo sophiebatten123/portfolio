@@ -100,24 +100,82 @@
       </div>
     </div>
     <div class="purple-bg">
-      <div class="grid grid-cols-3">
-        <div>
-          <p>Project 1</p>
+      <div class="grid grid-cols-3 pt-8">
+        <div class="mx-5">
+          <img src="../assets/bakery.webp" alt="An image of battens bakery, a website made from HTML and CSS">
         </div>
-        <div>
-          <p>Project 2</p>
+        <div class="mx-5">
+          <img src="../assets/ginamore.webp" alt="An image of ginamore, an ecommerce website made from HTML, CSS, JavaScript, Django and Python">
         </div>
-        <div>
-          <p>Project 3</p>
+        <div class="mx-5">
+          <img src="../assets/national_anthems.webp" alt="An image of the national anthems game, a hackathon project made from HTML, CSS, JavaScript, Django and Python">
         </div>
-        <div>
-          <p>Project 4</p>
+        <div class="bg-white h-60 mx-5">
+          <div class="flex h-1/3">
+            <img src="../assets/html.webp" alt="An image of the HTML logo" class="py-6 pl-4 pr-2">
+            <img src="../assets/css.webp" alt="An image of the CSS logo" class="py-6 px-2">
+          </div>
+          <h3 class="text-xl font-bold ml-4">Batten's Bakery</h3>
+          <p class="ml-4 mt-4 pb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis mauris neque, sed faucibus massa finibus non.</p>
         </div>
-        <div>
-          <p>Project 5</p>
+        <div  class="bg-white h-60 mx-5">
+          <div class="flex h-1/3">
+            <img src="../assets/html.webp" alt="An image of the HTML logo" class="py-6 pl-4 pr-2">
+            <img src="../assets/css.webp" alt="An image of the CSS logo" class="py-6 px-2">
+            <img src="../assets/javascript.webp" alt="An image of the JavaScript logo" class="py-6 px-2">
+            <img src="../assets/django.webp" alt="An image of the Django logo" class="py-6 px-2">
+            <img src="../assets/python.webp" alt="An image of the Python logo" class="py-6 px-2">
+          </div>
+          <h3 class="text-xl font-bold ml-4">GinAmore</h3>
+          <p class="ml-4 mt-4 pb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis mauris neque, sed faucibus massa finibus non.</p>
         </div>
-        <div>
-          <p>Project 6</p>
+        <div  class="bg-white h-60 mx-5">
+          <div class="flex h-1/3">
+            <img src="../assets/html.webp" alt="An image of the HTML logo" class="py-6 pl-4 pr-2">
+            <img src="../assets/css.webp" alt="An image of the CSS logo" class="py-6 px-2">
+            <img src="../assets/javascript.webp" alt="An image of the JavaScript logo" class="py-6 px-2">
+          </div>
+          <h3 class="text-xl font-bold ml-4">National Anthems</h3>
+          <p class="ml-4 mt-4 pb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis mauris neque, sed faucibus massa finibus non.</p>
+        </div>
+      </div>
+      <div class="grid grid-cols-3 pt-8">
+        <div class="mx-5">
+          <img src="../assets/bakery.webp" alt="An image of battens bakery, a website made from HTML and CSS">
+        </div>
+        <div class="mx-5">
+          <img src="../assets/ginamore.webp" alt="An image of ginamore, an ecommerce website made from HTML, CSS, JavaScript, Django and Python">
+        </div>
+        <div class="mx-5">
+          <img src="../assets/national_anthems.webp" alt="An image of the national anthems game, a hackathon project made from HTML, CSS, JavaScript, Django and Python">
+        </div>
+        <div class="bg-white h-60 mx-5">
+          <div class="flex h-1/3">
+            <img src="../assets/html.webp" alt="An image of the HTML logo" class="py-6 pl-4 pr-2">
+            <img src="../assets/css.webp" alt="An image of the CSS logo" class="py-6 px-2">
+          </div>
+          <h3 class="text-xl font-bold ml-4">Batten's Bakery</h3>
+          <p class="ml-4 mt-4 pb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis mauris neque, sed faucibus massa finibus non.</p>
+        </div>
+        <div  class="bg-white h-60 mx-5">
+          <div class="flex h-1/3">
+            <img src="../assets/html.webp" alt="An image of the HTML logo" class="py-6 pl-4 pr-2">
+            <img src="../assets/css.webp" alt="An image of the CSS logo" class="py-6 px-2">
+            <img src="../assets/javascript.webp" alt="An image of the JavaScript logo" class="py-6 px-2">
+            <img src="../assets/django.webp" alt="An image of the Django logo" class="py-6 px-2">
+            <img src="../assets/python.webp" alt="An image of the Python logo" class="py-6 px-2">
+          </div>
+          <h3 class="text-xl font-bold ml-4">GinAmore</h3>
+          <p class="ml-4 mt-4 pb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis mauris neque, sed faucibus massa finibus non.</p>
+        </div>
+        <div  class="bg-white h-60 mx-5">
+          <div class="flex h-1/3">
+            <img src="../assets/html.webp" alt="An image of the HTML logo" class="py-6 pl-4 pr-2">
+            <img src="../assets/css.webp" alt="An image of the CSS logo" class="py-6 px-2">
+            <img src="../assets/javascript.webp" alt="An image of the JavaScript logo" class="py-6 px-2">
+          </div>
+          <h3 class="text-xl font-bold ml-4">National Anthems</h3>
+          <p class="ml-4 mt-4 pb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis mauris neque, sed faucibus massa finibus non.</p>
         </div>
       </div>
     </div>
