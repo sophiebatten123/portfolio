@@ -17,3 +17,12 @@
 .light-orange-border {
     border: solid 4px #fff2c7;
 }
+.purple-border {
+    border: solid 4px #3D015E;
+}
+.purple-text {
+    color:#3D015E;
+}
+.purple-dotted-border {
+    border-top: dotted 4px #3D015E;
+}

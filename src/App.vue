@@ -1,8 +1,12 @@
 <template>
-  <div class="">
-    <div class="purple-bg w-full py-6">
-      <nav class="w-3/5 mx-auto text-white text-right text-2xl pr-12">
-        <router-link to="/">Home</router-link>
+  <div class="w-full purple-bg">
+    <div class="py-6 flex text-white mx-auto justify-between">
+      <h1 class="text-3xl ml-8">&lt;>Hello!&lt;/></h1>
+      <nav class="text-2xl">
+        <router-link to="/">About</router-link>
+        <router-link to="/" class="ml-4">Experience</router-link>
+        <router-link to="/" class="ml-4">Projects</router-link>
+        <router-link to="/" class="ml-4 mr-8">Skills</router-link>
       </nav>
     </div>
     <router-view/>
